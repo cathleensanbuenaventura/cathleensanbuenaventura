@@ -10,10 +10,10 @@
 ![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-## 📌 Current Focus 
-- 🌐 Building a developer portfolio
-- 💻 Learning and Collaborating on my Internship at DigitalNexusAI (April-August, 2025)
-- 🛡️ Learning advanced cybersecurity tools and threat modeling
+## 📌 Current Focus: April-August of 2025
+- 🌐 Learning and Collaborating during my Internship at DigitalNexusAI
+- 💻 Developing a Project focused on Cyber Operations
+- 🛡️ Learning advanced cybersecurity tools and threat modeling i.e., Research outside University
 - 📚 Preparing for a half-marathon & getting stronger every day
 
 ## 📫 Let’s connect!
