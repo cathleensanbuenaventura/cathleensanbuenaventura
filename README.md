@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Cathleen San Buenaventura
 
-🎓 Major: Cybersecurity @ Carleton University | 💻 Developer | 🛡️ Security Enthusiast  
-🏃‍♂️ Runner & Weightlifter | Always building, always learning.
+🎓 Cybersecurity student @ Carleton University | 💻 Developer | 🛡️ Security & Business Enthusiast  
+🏃‍♂️ I Weightlift and Run on the side | Always building, always learning.
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
