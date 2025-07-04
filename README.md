@@ -11,10 +11,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ## 📌 Current Focus: April-August of 2025
-- 🌐 Learning and Collaborating during my Internship at DigitalNexusAI
+- 🌐 Learning and Collaborating during my Internship at Zummit InfoLabs
 - 💻 Developing a Project focused on Cyber Operations
 - 🛡️ Learning advanced cybersecurity tools and threat modeling i.e., Research outside University
-- 📚 Preparing for a half-marathon & getting stronger every day
+- 📚 Summer Half-marathon quest done: 1:59:34 time
 
 ## 📫 Let’s connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/cathleen-san-buenaventura-42468121b/))
