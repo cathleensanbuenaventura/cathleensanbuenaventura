@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![SIEM](https://img.shields.io/badge/-SIEM-333333?style=flat&logo=elasticstack)
 
 ## Current Focus: Fall 2025
 - 🌐 Completed internship at Zummit Infolabs
