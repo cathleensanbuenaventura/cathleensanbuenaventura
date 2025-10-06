@@ -1,7 +1,8 @@
 # Hi there 👋 I'm Cathleen San Buenaventura
 
-🎓 Cybersecurity student @ Carleton University | 🛡️ Security & Business Enthusiast  
-🏃‍♂️ I Weightlift and Run on the side
+🎓 Computer Science, Cybersecurity student at Carleton University 
+🛡️ Security & Business Enthusiast  
+🏃 Maintaining focus and discipline through weightlifting and running
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -10,10 +11,11 @@
 ![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-## 📌 Current Focus: April-August of 2025
-- 🌐 Currently learning and collaborating at Zummit InfoLabs
-- 💻 Developing a Project focused in Cyber Operations
-- 🛡️ Learning advanced cybersecurity tools and threat modeling i.e., Research outside University
+## 📌 Current Focus: Fall 2025
+- 🌐 Completed internship at Zummit Infolabs
+- 🔍 Actively seeking Winter 2026 internship
+- 🧠 Currently taking: Principles of Computer Networks, HCI, Object-Oriented Software Engineering, Computer Systems Security
+- 🏅 Earned CompTIA Security+ ce (SY0-701) — Issued Sept 30, 2025
 - 📚 Summer Half-marathon quest done: 1:59:34 time
 
 ## 📫 Let’s connect!
