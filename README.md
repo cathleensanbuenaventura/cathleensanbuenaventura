@@ -1,7 +1,6 @@
 # Hi! 👋 I'm Cathleen
 
 🎓 Computer Science, Cybersecurity student at Carleton University 
-🛡️ Security & Business Enthusiast  
 
 ## Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
