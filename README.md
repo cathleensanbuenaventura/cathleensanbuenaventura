@@ -11,10 +11,10 @@
 
 ## Current Focus: Fall 2025
 - 🌐 Completed internship at Zummit Infolabs
-- 🔍 Actively seeking Winter 2026 internship
+- 🔍 Actively seeking Summer 2026 internship
 - 🧠 Currently taking: Principles of Computer Networks, HCI, Object-Oriented Software Engineering, Computer Systems Security
 - 🏅 Earned CompTIA Security+ ce (SY0-701) — Issued Sept 30, 2025
-- 📚 Summer Half-marathon quest done: 1:59:34 time
+- 📚 Summer 2025 Half-marathon side quest done: 1:59:34 time
 
 ## Let’s connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cathleen-san-buenaventura-42468121b/)
