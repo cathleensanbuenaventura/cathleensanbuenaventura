@@ -1,6 +1,7 @@
 # Hi! 👋 I'm Cathleen
 
 🎓 Computer Science, Cybersecurity student at Carleton University 
+✨ Driven, passionate, and people-oriented
 
 ## Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -10,10 +11,10 @@
 ![SIEM](https://img.shields.io/badge/-SIEM-333333?style=flat&logo=elasticstack)
 
 ## Current Focus: Fall 2025
+- 🌐 Currently interning at Ciena
+- 🔍 Currently seeking Summer 2026 internship
 - 🌐 Completed internship at Zummit Infolabs
-- 🔍 Actively seeking Summer 2026 internship
-- 🧠 Currently taking: Principles of Computer Networks, HCI, Object-Oriented Software Engineering, Computer Systems Security
-- 🏅 Earned CompTIA Security+ ce (SY0-701) — Issued Sept 30, 2025
+- 🏅 Earned CompTIA Security+ ce (SY0-701), Issued Sept 30, 2025
 - 📚 Summer 2025 Half-marathon side quest done: 1:59:34 time
 
 ## Let’s connect!
