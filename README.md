@@ -1,7 +1,8 @@
 # Hi! 👋 I'm Cathleen
 
-🎓 Computer Science, Cybersecurity student at Carleton University 
-✨ Driven, passionate, and people-oriented
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=36BCF7&width=520&lines=Driven%2C+passionate%2C+and+people-oriented)
+
+🎓 Computer Science, Cybersecurity student at Carleton University
 
 ## Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
