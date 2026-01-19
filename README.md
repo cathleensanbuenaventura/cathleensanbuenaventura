@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Cathleen
+# Hi! I'm Cathleen 👋 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=36BCF7&width=520&lines=Driven%2C+passionate%2C+and+people-oriented)
 
