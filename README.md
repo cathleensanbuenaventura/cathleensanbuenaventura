@@ -11,12 +11,12 @@
 ![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark)
 ![SIEM](https://img.shields.io/badge/-SIEM-333333?style=flat&logo=elasticstack)
 
-## Current Focus: Fall 2025
+## Current Focus: Winter 2026
 - 🌐 Currently interning at Ciena
 - 🔍 Currently seeking Summer 2026 internship
-- 🌐 Completed internship at Zummit Infolabs
 - 🏅 Earned CompTIA Security+ ce (SY0-701), Issued Sept 30, 2025
 - 📚 Summer 2025 Half-marathon side quest done: 1:59:34 time
+- 📚 Summer 2026 Run the Tamarack Half-marathon again with friends
 
 ## Let’s connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cathleen-san-buenaventura-42468121b/)
