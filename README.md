@@ -13,7 +13,7 @@
 
 ## Current Focus: Winter 2026
 - 🌐 Currently interning at Ciena
-- 🔍 Currently seeking Summer 2026 internship
+- 🔍 Incoming Radio SW Developer at Ericsson 
 - 🏅 Earned CompTIA Security+ ce (SY0-701), Issued Sept 30, 2025
 - 📚 Summer 2025 Half-marathon side quest done: 1:59:34 time
 - 📚 Summer 2026 Run the Tamarack Half-marathon again with friends
