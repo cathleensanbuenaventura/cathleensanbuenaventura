@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=36BCF7&width=520&lines=Driven%2C+passionate%2C+and+people-oriented)
 
-🎓 Computer Science, Cybersecurity student at Carleton University
+🎓 Computer Science Cybersecurity Stream B.C.S. Honours | Carleton University
 
 ## Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -12,11 +12,9 @@
 ![SIEM](https://img.shields.io/badge/-SIEM-333333?style=flat&logo=elasticstack)
 
 ## Current Focus: Winter 2026
-- 🌐 Currently interning at Ciena
-- 🔍 Incoming Radio SW Developer at Ericsson 
+- 🌐 Currently interning at Ericsson
+- 🔍 Prev. Interned at Ciena, Zummit Infolabs
 - 🏅 Earned CompTIA Security+ ce (SY0-701), Issued Sept 30, 2025
-- 📚 Summer 2025 Half-marathon side quest done: 1:59:34 time
-- 📚 Summer 2026 Run the Tamarack Half-marathon again with friends
 
 ## Let’s connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cathleen-san-buenaventura-42468121b/)
